@@ -12,3 +12,9 @@
 - Modules & require
 - Node & the file system (creating, reading, deleting files etc)
 - Streams & buffers
+
+# V3: Clients & Servers
+- Clients & Servers
+- Ip addresses & domains
+- Creating a server
+- Localhost & port numbers

@@ -18,3 +18,11 @@
 - Ip addresses & domains
 - Creating a server
 - Localhost & port numbers
+
+# V4: Requests & Responses
+- Request object
+- Response object
+- Returning html pages
+- Basic routing
+- Status codes
+- Redirects

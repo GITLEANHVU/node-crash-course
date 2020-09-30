@@ -26,3 +26,9 @@
 - Basic routing
 - Status codes
 - Redirects
+
+# V5: NPM
+- 3rd party packages
+- Installing packages globally (nodemon)
+- The package.json file & installing packages locally
+- Dependencies & sharing code

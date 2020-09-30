@@ -1,8 +1,17 @@
 const http = require('http');
 const fs = require('fs')
-const server = http.createServer((req, res) => {
-  console.log(req.url, req.method)
+const _ = require('lodash')
 
+const server = http.createServer((req, res) => {
+  
+  // lodash
+  const num = _.random(0, 20);
+  console.log(num)
+  const greet = () => {
+    console.log('hello')
+  }
+  greet()
+  greet()
   // set header content type
   res.setHeader('Content-Type', 'text/html') // text/plain
   // res.write('<p>hello, le anh vu</p>')
@@ -38,7 +47,7 @@ const server = http.createServer((req, res) => {
       // res.write(data)
       res.end(data)
     }
-  })
+  });
 });
 
 server.listen(3000, 'localhost', () => {

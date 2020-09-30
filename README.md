@@ -31,4 +31,10 @@
 - 3rd party packages
 - Installing packages globally (nodemon)
 - The package.json file & installing packages locally
-- Dependencies & sharing code 
+- Dependencies & sharing code
+
+# V6: Express Apps
+- What is express?
+- Creating an express app
+- Routing and html pages
+- Redirects & 404 pages

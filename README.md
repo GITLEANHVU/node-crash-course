@@ -31,4 +31,4 @@
 - 3rd party packages
 - Installing packages globally (nodemon)
 - The package.json file & installing packages locally
-- Dependencies & sharing code
+- Dependencies & sharing code 

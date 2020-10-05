@@ -38,3 +38,10 @@
 - Creating an express app
 - Routing and html pages
 - Redirects & 404 pages
+
+# V7: View Engines
+- View engines at a glance
+- ejs view engine
+- passing data into views
+- partials
+- adding css
